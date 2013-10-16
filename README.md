@@ -1,4 +1,4 @@
-lookat-fsh
+fuzzy-stack-hash-analysis
 ==========
 
 A repository for some scripts used to analyze the efficacy of fuzzy stack hashing
