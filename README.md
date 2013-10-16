@@ -1,7 +1,7 @@
 fuzzy-stack-hash-analysis
 ==========
 
-A repository for some scripts used to analyze the efficacy of fuzzy stack hashing
+A repository for scripts used to analyze the efficacy of fuzzy stack hashing and a README.md explaining some results.
 
 TL;DR
 ----
